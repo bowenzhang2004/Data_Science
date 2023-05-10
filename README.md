@@ -1,0 +1,2 @@
+# Data_Science-Machine_Learning
+By utilizing data science and machine learning in Python, I have created two projects. The Fifa project takes in csv files and organize the data and display it with visualizations so it becomes beneficial and useful. The second project iris_flower uses machine learning principles to make a machine determine if a certain subject in a picture really is that subject by learning and adapting without following explicit instructions, and using algorithms and statistical models to analyze and draw inferences from patterns in data.
